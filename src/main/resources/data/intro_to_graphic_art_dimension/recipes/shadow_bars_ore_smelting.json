@@ -1,0 +1,12 @@
+{
+  "group": "intro_to_graphic_art_dimension",
+  "type": "minecraft:smelting",
+  "experience": 4.199999999999999,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "intro_to_graphic_art_dimension:shadow_bars_ore"
+  },
+  "result": {
+    "item": "intro_to_graphic_art_dimension:shadow_bars_ingot"
+  }
+}

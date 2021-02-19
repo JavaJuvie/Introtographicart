@@ -413,33 +413,240 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "medium_shadow_tree"
+    },
+    {
+      "name": "ShadowBarsIngot",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_ingot"
+    },
+    {
+      "name": "ShadowBarsOre",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_ore"
+    },
+    {
+      "name": "ShadowBarsBlock",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_block"
+    },
+    {
+      "name": "ShadowBarsOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_ore_block_recipe"
+    },
+    {
+      "name": "ShadowBarsBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_block_ore_recipe"
+    },
+    {
+      "name": "ShadowBarsOreSmelting",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_ore_smelting"
+    },
+    {
+      "name": "ShadowBarsPickaxe",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_pickaxe"
+    },
+    {
+      "name": "ShadowBarsAxe",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_axe"
+    },
+    {
+      "name": "ShadowBarsSword",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_sword"
+    },
+    {
+      "name": "ShadowBarsShovel",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_shovel"
+    },
+    {
+      "name": "ShadowBarsHoe",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_hoe"
+    },
+    {
+      "name": "ShadowBarsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_pickaxe_recipe"
+    },
+    {
+      "name": "ShadowBarsAxeRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_axe_recipe"
+    },
+    {
+      "name": "ShadowBarsSwordRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_sword_recipe"
+    },
+    {
+      "name": "ShadowBarsShovelRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_shovel_recipe"
+    },
+    {
+      "name": "ShadowBarsHoeRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_hoe_recipe"
+    },
+    {
+      "name": "ShadowBarsArmor",
+      "type": "armor",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ShadowBarsArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_armor_helmet_recipe"
+    },
+    {
+      "name": "ShadowBarsArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_armor_body_recipe"
+    },
+    {
+      "name": "ShadowBarsArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_armor_leggings_recipe"
+    },
+    {
+      "name": "ShadowBarsArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_bars_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.intro_to_graphic_art_dimension.shadow_wood": "Shadow Wood",
       "block.intro_to_graphic_art_dimension.shadow_fence": "Shadow Fence",
-      "block.intro_to_graphic_art_dimension.shadow_planks": "Shadow Planks",
-      "block.intro_to_graphic_art_dimension.withered_bone_block": "Withered Bone Block",
       "item.intro_to_graphic_art_dimension.shadow_shovel": "Shadow Shovel",
-      "item.intro_to_graphic_art_dimension.withered_bone": "Withered Bone",
-      "item.intro_to_graphic_art_dimension.shadow_pickaxe": "Shadow Pickaxe",
       "item.intro_to_graphic_art_dimension.shadow_sword": "Shadow Sword",
       "item.intro_to_graphic_art_dimension.shadow_armor_leggings": "Shadow Leggings",
       "block.intro_to_graphic_art_dimension.shadow_fence_gate": "Shadow Fence Gate",
+      "item.intro_to_graphic_art_dimension.shadow_bars_pickaxe": "ShadowBars Pickaxe",
       "item.intro_to_graphic_art_dimension.shadow_realm": "Charred Bone",
       "block.intro_to_graphic_art_dimension.shadow_stairs": "Shadow Stairs",
-      "block.intro_to_graphic_art_dimension.shadow_slab": "Shadow Slab",
-      "item.intro_to_graphic_art_dimension.shadow_hoe": "Shadow Hoe",
-      "item.intro_to_graphic_art_dimension.shadow_armor_boots": "Shadow Boots",
-      "block.intro_to_graphic_art_dimension.shadowdirt": "Shadow Stone",
-      "block.intro_to_graphic_art_dimension.shadow_log": "Shadow Log",
+      "item.intro_to_graphic_art_dimension.shadow_bars_ingot": "ShadowBars",
+      "block.intro_to_graphic_art_dimension.shadow_bars_ore": "Shadow Ore",
+      "item.intro_to_graphic_art_dimension.shadow_bars_armor_chestplate": "ShadowBars Chestplate",
+      "item.intro_to_graphic_art_dimension.shadow_bars_armor_boots": "ShadowBars Boots",
       "item.intro_to_graphic_art_dimension.shadow_armor_chestplate": "Shadow Chestplate",
       "item.intro_to_graphic_art_dimension.shadow_armor_helmet": "Shadow Helmet",
-      "block.intro_to_graphic_art_dimension.shadow_leaves": "Shadow Leaves",
-      "item.intro_to_graphic_art_dimension.shadow_axe": "Shadow Axe"
+      "item.intro_to_graphic_art_dimension.shadow_axe": "Shadow Axe",
+      "block.intro_to_graphic_art_dimension.shadow_wood": "Shadow Wood",
+      "block.intro_to_graphic_art_dimension.shadow_planks": "Shadow Planks",
+      "block.intro_to_graphic_art_dimension.shadow_bars_block": "Shadow Bars Block",
+      "block.intro_to_graphic_art_dimension.withered_bone_block": "Withered Bone Block",
+      "item.intro_to_graphic_art_dimension.shadow_bars_sword": "ShadowBars Sword",
+      "item.intro_to_graphic_art_dimension.shadow_bars_armor_leggings": "ShadowBars Leggings",
+      "item.intro_to_graphic_art_dimension.shadow_pickaxe": "Shadow Pickaxe",
+      "item.intro_to_graphic_art_dimension.withered_bone": "Withered Bone",
+      "item.intro_to_graphic_art_dimension.shadow_bars_hoe": "ShadowBars Hoe",
+      "block.intro_to_graphic_art_dimension.shadow_slab": "Shadow Slab",
+      "item.intro_to_graphic_art_dimension.shadow_hoe": "Shadow Hoe",
+      "item.intro_to_graphic_art_dimension.shadow_bars_shovel": "ShadowBars Shovel",
+      "item.intro_to_graphic_art_dimension.shadow_bars_armor_helmet": "ShadowBars Helmet",
+      "item.intro_to_graphic_art_dimension.shadow_armor_boots": "Shadow Boots",
+      "item.intro_to_graphic_art_dimension.shadow_bars_axe": "ShadowBars Axe",
+      "block.intro_to_graphic_art_dimension.shadow_log": "Shadow Log",
+      "block.intro_to_graphic_art_dimension.shadowdirt": "Shadow Stone",
+      "block.intro_to_graphic_art_dimension.shadow_leaves": "Shadow Leaves"
     }
   },
   "workspaceSettings": {

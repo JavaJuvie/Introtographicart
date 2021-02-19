@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "shadowbarsword",
+    "customModelName": "Normal",
+    "name": "ShadowBars Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 12,
+    "efficiency": 18.0,
+    "attackSpeed": 20.0,
+    "enchantability": 84,
+    "damageVsEntity": 36.0,
+    "usageCount": 3072,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:ShadowBarsIngot"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

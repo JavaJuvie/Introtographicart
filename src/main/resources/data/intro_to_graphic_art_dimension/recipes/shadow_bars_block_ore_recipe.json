@@ -1,0 +1,13 @@
+{
+  "group": "intro_to_graphic_art_dimension",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "intro_to_graphic_art_dimension:shadow_bars_block"
+    }
+  ],
+  "result": {
+    "item": "intro_to_graphic_art_dimension:shadow_bars_ingot",
+    "count": 9
+  }
+}

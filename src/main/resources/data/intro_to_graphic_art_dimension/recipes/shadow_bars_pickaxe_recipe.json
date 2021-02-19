@@ -1,0 +1,30 @@
+{
+  "group": "intro_to_graphic_art_dimension",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "intro_to_graphic_art_dimension:shadow_bars_ingot"
+    },
+    "1": {
+      "item": "intro_to_graphic_art_dimension:shadow_bars_ingot"
+    },
+    "2": {
+      "item": "intro_to_graphic_art_dimension:shadow_bars_ingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "intro_to_graphic_art_dimension:shadow_bars_pickaxe",
+    "count": 1
+  }
+}

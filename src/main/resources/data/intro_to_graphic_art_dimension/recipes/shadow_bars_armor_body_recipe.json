@@ -1,0 +1,39 @@
+{
+  "group": "intro_to_graphic_art_dimension",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "intro_to_graphic_art_dimension:shadow_bars_ingot"
+    },
+    "2": {
+      "item": "intro_to_graphic_art_dimension:shadow_bars_ingot"
+    },
+    "3": {
+      "item": "intro_to_graphic_art_dimension:shadow_bars_ingot"
+    },
+    "4": {
+      "item": "intro_to_graphic_art_dimension:shadow_bars_ingot"
+    },
+    "5": {
+      "item": "intro_to_graphic_art_dimension:shadow_bars_ingot"
+    },
+    "6": {
+      "item": "intro_to_graphic_art_dimension:shadow_bars_ingot"
+    },
+    "7": {
+      "item": "intro_to_graphic_art_dimension:shadow_bars_ingot"
+    },
+    "8": {
+      "item": "intro_to_graphic_art_dimension:shadow_bars_ingot"
+    }
+  },
+  "result": {
+    "item": "intro_to_graphic_art_dimension:shadow_bars_armor_chestplate",
+    "count": 1
+  }
+}

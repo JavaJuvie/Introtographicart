@@ -3,25 +3,25 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "shadow_pickaxe",
+    "texture": "shadowbars_pickaxe",
     "customModelName": "Normal",
-    "name": "Shadow Pickaxe",
+    "name": "ShadowBars Pickaxe",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },
     "toolType": "Pickaxe",
-    "harvestLevel": 13,
-    "efficiency": 16.0,
-    "attackSpeed": 5.199999999999999,
-    "enchantability": 21,
-    "damageVsEntity": 4.5,
-    "usageCount": 300,
+    "harvestLevel": 15,
+    "efficiency": 27.0,
+    "attackSpeed": 10.0,
+    "enchantability": 84,
+    "damageVsEntity": 12.0,
+    "usageCount": 3072,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [
       {
-        "value": "CUSTOM:ShadowPlanks"
+        "value": "CUSTOM:ShadowBarsIngot"
       }
     ],
     "stayInGridWhenCrafting": false,
