@@ -2,6 +2,8 @@
 package net.mcreator.introtographicartdimension.item;
 
 import net.minecraftforge.registries.ObjectHolder;
+import net.minecraftforge.api.distmarker.OnlyIn;
+import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.item.ItemStack;
@@ -47,6 +49,11 @@ public class ShadowBarsHoeItem extends IntroToGraphicArtDimensionModElements.Mod
 				return Ingredient.fromStacks(new ItemStack(ShadowBarsIngotItem.block, (int) (1)));
 			}
 		}, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
+			@Override
+			@OnlyIn(Dist.CLIENT)
+			public boolean hasEffect(ItemStack itemstack) {
+				return true;
+			}
 		}.setRegistryName("shadow_bars_hoe"));
 	}
 }

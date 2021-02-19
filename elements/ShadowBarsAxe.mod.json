@@ -18,7 +18,7 @@
     "damageVsEntity": 54.0,
     "usageCount": 3072,
     "blocksAffected": [],
-    "hasGlow": false,
+    "hasGlow": true,
     "repairItems": [
       {
         "value": "CUSTOM:ShadowBarsIngot"
