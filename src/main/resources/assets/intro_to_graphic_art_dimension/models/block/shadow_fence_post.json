@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "intro_to_graphic_art_dimension:blocks/shadow_planks",
+    "particle": "intro_to_graphic_art_dimension:blocks/shadow_planks"
+  }
+}

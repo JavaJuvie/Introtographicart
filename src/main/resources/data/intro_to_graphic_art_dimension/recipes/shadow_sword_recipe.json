@@ -1,0 +1,24 @@
+{
+  "group": "intro_to_graphic_art_dimension",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "intro_to_graphic_art_dimension:shadow_planks"
+    },
+    "1": {
+      "item": "intro_to_graphic_art_dimension:shadow_planks"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "intro_to_graphic_art_dimension:shadow_sword",
+    "count": 1
+  }
+}

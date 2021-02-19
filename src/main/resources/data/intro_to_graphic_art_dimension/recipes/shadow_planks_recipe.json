@@ -1,0 +1,13 @@
+{
+  "group": "intro_to_graphic_art_dimension",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:shadow_log"
+    }
+  ],
+  "result": {
+    "item": "intro_to_graphic_art_dimension:shadow_planks",
+    "count": 4
+  }
+}

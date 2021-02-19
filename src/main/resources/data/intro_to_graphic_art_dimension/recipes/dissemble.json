@@ -1,0 +1,12 @@
+{
+  "group": "intro_to_graphic_art_dimension",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "intro_to_graphic_art_dimension:withered_bone"
+  },
+  "result": {
+    "item": "intro_to_graphic_art_dimension:shadow_realm"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "intro_to_graphic_art_dimension",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "intro_to_graphic_art_dimension:withered_bone"
+    },
+    "1": {
+      "item": "intro_to_graphic_art_dimension:withered_bone"
+    },
+    "2": {
+      "item": "intro_to_graphic_art_dimension:withered_bone"
+    },
+    "3": {
+      "item": "intro_to_graphic_art_dimension:withered_bone"
+    },
+    "4": {
+      "item": "intro_to_graphic_art_dimension:withered_bone"
+    },
+    "5": {
+      "item": "intro_to_graphic_art_dimension:withered_bone"
+    },
+    "6": {
+      "item": "intro_to_graphic_art_dimension:withered_bone"
+    },
+    "7": {
+      "item": "intro_to_graphic_art_dimension:withered_bone"
+    },
+    "8": {
+      "item": "intro_to_graphic_art_dimension:withered_bone"
+    }
+  },
+  "result": {
+    "item": "intro_to_graphic_art_dimension:withered_bone_block",
+    "count": 1
+  }
+}

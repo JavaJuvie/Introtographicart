@@ -1,0 +1,33 @@
+{
+  "group": "intro_to_graphic_art_dimension",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "intro_to_graphic_art_dimension:shadow_planks"
+    },
+    "3": {
+      "item": "intro_to_graphic_art_dimension:shadow_planks"
+    },
+    "4": {
+      "item": "intro_to_graphic_art_dimension:shadow_planks"
+    },
+    "6": {
+      "item": "intro_to_graphic_art_dimension:shadow_planks"
+    },
+    "7": {
+      "item": "intro_to_graphic_art_dimension:shadow_planks"
+    },
+    "8": {
+      "item": "intro_to_graphic_art_dimension:shadow_planks"
+    }
+  },
+  "result": {
+    "item": "intro_to_graphic_art_dimension:shadow_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "intro_to_graphic_art_dimension",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "intro_to_graphic_art_dimension:shadow_planks"
+    },
+    "1": {
+      "item": "intro_to_graphic_art_dimension:shadow_planks"
+    },
+    "2": {
+      "item": "intro_to_graphic_art_dimension:shadow_planks"
+    },
+    "3": {
+      "item": "intro_to_graphic_art_dimension:shadow_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:crafting_table",
+    "count": 1
+  }
+}

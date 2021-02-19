@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "intro_to_graphic_art_dimension:blocks/srgrassside",
+    "up": "intro_to_graphic_art_dimension:blocks/srgrassside",
+    "north": "intro_to_graphic_art_dimension:blocks/srgrassside",
+    "east": "intro_to_graphic_art_dimension:blocks/srgrassside",
+    "south": "intro_to_graphic_art_dimension:blocks/srgrassside",
+    "west": "intro_to_graphic_art_dimension:blocks/srgrassside",
+    "particle": "intro_to_graphic_art_dimension:blocks/srgrassside"
+  }
+}

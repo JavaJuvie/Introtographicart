@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "intro_to_graphic_art_dimension:blocks/shadow_planks",
+    "top": "intro_to_graphic_art_dimension:blocks/shadow_planks",
+    "side": "intro_to_graphic_art_dimension:blocks/shadow_planks"
+  }
+}

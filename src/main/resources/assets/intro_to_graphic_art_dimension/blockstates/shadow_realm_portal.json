@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "intro_to_graphic_art_dimension:block/shadow_realm_portal_ew"
+    },
+    "axis=x": {
+      "model": "intro_to_graphic_art_dimension:block/shadow_realm_portal_ns"
+    }
+  }
+}

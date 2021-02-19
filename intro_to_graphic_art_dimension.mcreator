@@ -1,0 +1,462 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "WitheredBone",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "withered_bone"
+    },
+    {
+      "name": "Craftwitheredbones",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craftwitheredbones"
+    },
+    {
+      "name": "WitheredBoneBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "withered_bone_block"
+    },
+    {
+      "name": "Shadowdirt",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadowdirt"
+    },
+    {
+      "name": "ShadowRealm",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_realm"
+    },
+    {
+      "name": "ShadowRealmPlayerLeavesDimension",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_realm_player_leaves_dimension",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dissemble",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dissemble"
+    },
+    {
+      "name": "Wbonerecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wbonerecipe"
+    },
+    {
+      "name": "ShadowWood",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_wood"
+    },
+    {
+      "name": "ShadowLog",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_log"
+    },
+    {
+      "name": "ShadowPlanks",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_planks"
+    },
+    {
+      "name": "ShadowLeaves",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_leaves"
+    },
+    {
+      "name": "ShadowStairs",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_stairs"
+    },
+    {
+      "name": "ShadowSlab",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_slab"
+    },
+    {
+      "name": "ShadowFence",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_fence"
+    },
+    {
+      "name": "ShadowFenceGate",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_fence_gate"
+    },
+    {
+      "name": "ShadowItemsTag",
+      "type": "tag",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_items_tag"
+    },
+    {
+      "name": "ShadowWoodRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_wood_recipe"
+    },
+    {
+      "name": "ShadowPlanksRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_planks_recipe"
+    },
+    {
+      "name": "ShadowStairsRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_stairs_recipe"
+    },
+    {
+      "name": "ShadowSlabRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_slab_recipe"
+    },
+    {
+      "name": "ShadowFenceRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_fence_recipe"
+    },
+    {
+      "name": "ShadowFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_fence_gate_recipe"
+    },
+    {
+      "name": "ShadowStickRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_stick_recipe"
+    },
+    {
+      "name": "ShadowPickaxe",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_pickaxe"
+    },
+    {
+      "name": "ShadowAxe",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_axe"
+    },
+    {
+      "name": "ShadowSword",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_sword"
+    },
+    {
+      "name": "ShadowShovel",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_shovel"
+    },
+    {
+      "name": "ShadowHoe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_hoe"
+    },
+    {
+      "name": "ShadowPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_pickaxe_recipe"
+    },
+    {
+      "name": "ShadowAxeRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_axe_recipe"
+    },
+    {
+      "name": "ShadowSwordRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_sword_recipe"
+    },
+    {
+      "name": "ShadowShovelRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_shovel_recipe"
+    },
+    {
+      "name": "ShadowHoeRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_hoe_recipe"
+    },
+    {
+      "name": "ShadowArmor",
+      "type": "armor",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ShadowArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_armor_helmet_recipe"
+    },
+    {
+      "name": "ShadowArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_armor_body_recipe"
+    },
+    {
+      "name": "ShadowArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_armor_leggings_recipe"
+    },
+    {
+      "name": "ShadowArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadow_armor_boots_recipe"
+    },
+    {
+      "name": "SmallShadowTree",
+      "type": "structure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "small_shadow_tree"
+    },
+    {
+      "name": "Shadowcraftingtabler",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadowcraftingtabler"
+    },
+    {
+      "name": "Shadowstickr",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadowstickr"
+    },
+    {
+      "name": "MediumShadowTree",
+      "type": "structure",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medium_shadow_tree"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.intro_to_graphic_art_dimension.shadow_wood": "Shadow Wood",
+      "block.intro_to_graphic_art_dimension.shadow_fence": "Shadow Fence",
+      "block.intro_to_graphic_art_dimension.shadow_planks": "Shadow Planks",
+      "block.intro_to_graphic_art_dimension.withered_bone_block": "Withered Bone Block",
+      "item.intro_to_graphic_art_dimension.shadow_shovel": "Shadow Shovel",
+      "item.intro_to_graphic_art_dimension.withered_bone": "Withered Bone",
+      "item.intro_to_graphic_art_dimension.shadow_pickaxe": "Shadow Pickaxe",
+      "item.intro_to_graphic_art_dimension.shadow_sword": "Shadow Sword",
+      "item.intro_to_graphic_art_dimension.shadow_armor_leggings": "Shadow Leggings",
+      "block.intro_to_graphic_art_dimension.shadow_fence_gate": "Shadow Fence Gate",
+      "item.intro_to_graphic_art_dimension.shadow_realm": "Charred Bone",
+      "block.intro_to_graphic_art_dimension.shadow_stairs": "Shadow Stairs",
+      "block.intro_to_graphic_art_dimension.shadow_slab": "Shadow Slab",
+      "item.intro_to_graphic_art_dimension.shadow_hoe": "Shadow Hoe",
+      "item.intro_to_graphic_art_dimension.shadow_armor_boots": "Shadow Boots",
+      "block.intro_to_graphic_art_dimension.shadowdirt": "Shadow Stone",
+      "block.intro_to_graphic_art_dimension.shadow_log": "Shadow Log",
+      "item.intro_to_graphic_art_dimension.shadow_armor_chestplate": "Shadow Chestplate",
+      "item.intro_to_graphic_art_dimension.shadow_armor_helmet": "Shadow Helmet",
+      "block.intro_to_graphic_art_dimension.shadow_leaves": "Shadow Leaves",
+      "item.intro_to_graphic_art_dimension.shadow_axe": "Shadow Axe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "intro_to_graphic_art_dimension",
+    "modName": "Intro to graphic art dimension",
+    "version": "1.0.0",
+    "author": "mathi, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.introtographicartdimension",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

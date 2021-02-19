@@ -1,0 +1,48 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "intro_to_graphic_art_dimension:block/shadow_fence_post"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "intro_to_graphic_art_dimension:block/shadow_fence",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "intro_to_graphic_art_dimension:block/shadow_fence",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "intro_to_graphic_art_dimension:block/shadow_fence",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "intro_to_graphic_art_dimension:block/shadow_fence",
+        "y": 90,
+        "uvlock": true
+      }
+    }
+  ]
+}

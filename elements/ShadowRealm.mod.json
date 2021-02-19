@@ -1,0 +1,53 @@
+{
+  "_fv": 13,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:WitheredBoneBlock"
+    },
+    "portalParticles": {
+      "value": "DRIP_LAVA"
+    },
+    "portalLuminance": 0.04,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Charred Bone",
+    "igniterTab": {
+      "value": "MISC"
+    },
+    "texture": "witheredbpng",
+    "portalTexture": "portaltxt",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "plains"
+      },
+      {
+        "value": "mutated_extreme_hills"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Shadowdirt"
+    },
+    "fluidBlock": {
+      "value": "Blocks.LAVA"
+    },
+    "airColor": {
+      "value": -13421773,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "onPlayerLeavesDimension": {
+      "name": "ShadowRealmPlayerLeavesDimension"
+    }
+  }
+}

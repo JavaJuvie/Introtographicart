@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "intro_to_graphic_art_dimension:blocks/shadow_planks"
+  }
+}

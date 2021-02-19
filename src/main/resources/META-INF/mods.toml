@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="intro_to_graphic_art_dimension"
+version="1.0.0"
+displayName="Intro to graphic art dimension"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="mathi, MCreator"
+
+[[dependencies.intro_to_graphic_art_dimension]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

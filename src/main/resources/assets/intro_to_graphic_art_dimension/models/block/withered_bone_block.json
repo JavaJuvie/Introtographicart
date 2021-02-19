@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "intro_to_graphic_art_dimension:blocks/boneblocktxt",
+    "up": "intro_to_graphic_art_dimension:blocks/boneblocktxt",
+    "north": "intro_to_graphic_art_dimension:blocks/boneblocktxt",
+    "east": "intro_to_graphic_art_dimension:blocks/boneblocktxt",
+    "south": "intro_to_graphic_art_dimension:blocks/boneblocktxt",
+    "west": "intro_to_graphic_art_dimension:blocks/boneblocktxt",
+    "particle": "intro_to_graphic_art_dimension:blocks/boneblocktxt"
+  }
+}
