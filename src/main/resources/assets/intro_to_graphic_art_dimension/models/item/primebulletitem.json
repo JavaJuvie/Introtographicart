@@ -1,0 +1,7 @@
+{
+  "parent": "intro_to_graphic_art_dimension:custom/primebullet",
+  "textures": {
+    "1": "intro_to_graphic_art_dimension:blocks/texture",
+    "particle": "intro_to_graphic_art_dimension:items/texture"
+  }
+}

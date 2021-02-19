@@ -1,0 +1,37 @@
+{
+  "_fv": 13,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "untitled_artwork",
+    "customModelName": "Normal",
+    "name": "Primevandal",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Primebulletitem"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 10.0,
+    "bulletDamage": 20.0,
+    "bulletKnockback": 10,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Primebulletitem"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "texture.png"
+  }
+}
