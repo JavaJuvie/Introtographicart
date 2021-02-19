@@ -608,6 +608,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "shadow_bars_armor_boots_recipe"
+    },
+    {
+      "name": "Shadowshot",
+      "type": "gun",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadowshot"
     }
   ],
   "variable_elements": [],
@@ -615,6 +624,7 @@
   "language_map": {
     "en_us": {
       "block.intro_to_graphic_art_dimension.shadow_fence": "Shadow Fence",
+      "item.intro_to_graphic_art_dimension.shadowshot": "Shadowshot",
       "item.intro_to_graphic_art_dimension.shadow_shovel": "Shadow Shovel",
       "item.intro_to_graphic_art_dimension.shadow_sword": "Shadow Sword",
       "item.intro_to_graphic_art_dimension.shadow_armor_leggings": "Shadow Leggings",
