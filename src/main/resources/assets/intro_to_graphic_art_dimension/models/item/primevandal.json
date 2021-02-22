@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "intro_to_graphic_art_dimension:items/untitled_artwork"
+    "layer0": "intro_to_graphic_art_dimension:items/image0"
   },
   "display": {
     "thirdperson_righthand": {
