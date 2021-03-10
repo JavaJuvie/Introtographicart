@@ -2,9 +2,9 @@
   "_fv": 13,
   "_type": "gun",
   "definition": {
-    "renderType": 0,
+    "renderType": 1,
     "texture": "classpng",
-    "customModelName": "Normal",
+    "customModelName": "primeclassic:default",
     "name": "Primeclassic",
     "specialInfo": [],
     "creativeTab": {
